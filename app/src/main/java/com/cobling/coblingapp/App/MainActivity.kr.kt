@@ -1,0 +1,1 @@
+// 앱의 메인 Activity, Compose 진입점

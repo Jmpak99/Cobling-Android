@@ -1,0 +1,1 @@
+// Application 클래스, Firebase/전역 설정 초기화
